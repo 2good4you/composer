@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "files": [
+      "App/User.php",
+      "App/Employee.php",
+      "Services/Catalog.php"
+    ]
+  }
+}
